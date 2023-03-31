@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+html,body {
+    align-items: center;
+}
+
+
+.logo {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+.home {
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+.search {
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.compass {
+    padding-bottom: 20px;
+    background-color: black;
+    width: fit-content;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+.reels {
+    padding-top: 35px;
+    padding-bottom: 45px;
+    padding-left: 20px;
+}
+.messages {
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.heart {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.create {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.profile {
+    padding-top: 20px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+}
+.line {
+    padding-top: 250px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+    
+}
+.post {
+    padding-left: 500px;
+    padding-top: 30px;
+}
+.tab {
+    width: 223px;
+    height: auto;
+    margin-right: 20px;
+    float: left;
+}
